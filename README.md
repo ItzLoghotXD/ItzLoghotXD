@@ -1,10 +1,14 @@
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+### -->
 
-<br clear="both">
+<div>
+  <img style="width: 1000px; height: auto;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=ITZLOGHOTXD&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
 
 <div align="center">
   <a href="https://bit.ly/logcord" target="_blank">
@@ -20,7 +24,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Loghot, from India</h2>
+<h2 align="left">Hi  I’m Loghot, a developer from India</h2>
 
 ###
 
@@ -28,11 +32,18 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Nothing<br>🌱 I’m currently learning Java<br>📫 How to reach me itzloghotxd@gmail.com<br>⚡ Fun fact</p>
+<p align="left">
+🔭 Currently focusing on <b>learning Java and backend basics</b><br>
+⚡ I like breaking things to <b>understand how they work</b><br>
+🧩 Most of my experiments and projects live <b><a href="https://github.com/ItzLoghotXD?tab=repositories">here</a></b><br>
+🧱 My Minecraft plugins are developed under <b><a href="https://github.com/IgnisMC">IgnisMC</a></b><br>
+🧠 I enjoy learning by <b>building small projects</b><br>
+🎲 Fun fact: <b>nothing is funny about me :)</b><br>
+</p>
 
 ###
 
-<h3 align="left">🛠LANGUAGES AND TOOLS:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -54,12 +65,20 @@
 
 ###
 
+<h3 align="left">My Stats :</h3>
+
+###
+
 <div align="center">
   <img src="https://loghot-github-readme-stats.vercel.app/api?username=ItzLoghotXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ItzLoghotXD&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://loghot-github-readme-stats.vercel.app/api/top-langs?username=ItzLoghotXD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzLoghotXD&theme=material-palenight&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h3 align="left">Contribution HeatMap (PACMAN):</h3>
 
 ###
 
@@ -75,15 +94,9 @@
 
 ###
 
-## 💰 You can help me by Donating via Crypto
+## You can Support me via Crypto [if you want — it means a lot :) ]
 <a href="https://nowpayments.io/donation/ItzLoghotXD" target="_blank" rel="noreferrer noopener">
    <img style="width: 200px; height: auto;" src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=ITZLOGHOTXD&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
 
 ###
