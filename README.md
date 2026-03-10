@@ -70,10 +70,10 @@
 ###
 
 <div align="center">
-  <img src="https://loghot-github-readme-stats.vercel.app/api?username=ItzLoghotXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://loghot-github-readme-stats.vercel.app/api?username=ItzLoghotXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ItzLoghotXD&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://loghot-github-readme-stats.vercel.app/api/top-langs?username=ItzLoghotXD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItzLoghotXD&theme=material-palenight&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+  <img src="https://loghot-github-readme-activity-graph.vercel.app/graph?username=ItzLoghotXD&theme=material-palenight&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -92,11 +92,11 @@
 
 <img src="https://raw.githubusercontent.com/ItzLoghotXD/ItzLoghotXD/output/snake.svg" alt="Snake animation" /> -->
 
-###
+<!-- ###
 
 ## You can Support me via Crypto [if you want — it means a lot :) ]
 <a href="https://nowpayments.io/donation/ItzLoghotXD" target="_blank" rel="noreferrer noopener">
    <img style="width: 200px; height: auto;" src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
+</a> -->
 
 ###
