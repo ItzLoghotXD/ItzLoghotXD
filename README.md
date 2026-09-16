@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Hi  I’m Loghot, a developer from India</h2>
+<h2 align="left">HELLO! I m Loghot, a developer from India</h2>
 
 ###
 
@@ -33,17 +33,17 @@
 ###
 
 <p align="left">
-🔭 Currently focusing on <b>learning Java and backend basics</b><br>
-⚡ I like breaking things to <b>understand how they work</b><br>
-🧩 Most of my experiments and projects live <b><a href="https://github.com/ItzLoghotXD?tab=repositories">here</a></b><br>
-🧱 My Minecraft plugins are developed under <b><a href="https://github.com/IgnisMC">IgnisMC</a></b><br>
-🧠 I enjoy learning by <b>building small projects</b><br>
-🎲 Fun fact: <b>nothing is funny about me :)</b><br>
-</p>
+ Focusing on <b>learning Java and backend basics</b><br>
+ Breaking things to <b>understand how they work</b><br>
+<!--  Most of my experiments and projects live <b><a href="https://github.com/ItzLoghotXD?tab=repositories">here</a></b><br>
+ My Minecraft plugins are developed under <b><a href="https://github.com/IgnisMC">IgnisMC</a></b><br>
+ I enjoy learning by <b>building small projects</b><br>
+ Fun fact: <b>nothing is funny about me :)</b><br>
+</p> -->
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I use:</h3>
 
 ###
 
